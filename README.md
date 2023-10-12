@@ -1,4 +1,4 @@
-# Diamond with BlastN
+# Availability
 
 This repository contains the source code that was created during the master thesis "Development of a fast and sensitive pairwise
 DNA sequence aligner using a seed-and-extend
